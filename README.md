@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm T from :vietnam:
 
 <!--
 **ngphsotu/ngphsotu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Swift     |
+|     2| Python    |
+|     3| Java      |
+|     4| Flutter   |
+|     5| HTML      |
+|     6| CSS       |
+|     7| JavaScript|
+|     8| SQL       |
+
+</details>
+
